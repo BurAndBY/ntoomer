@@ -1,0 +1,16 @@
+[package]
+name = "ntoomer"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+screenshots = "0.6.0"
+gl = "0.14.0"
+glutin = "0.31.3"
+glutin-winit = "0.4.2"
+winit = "0.29.15"
+glam = "0.27.0"
+raw-window-handle = "0.5.2"
+
+[target.'cfg(windows)'.build-dependencies]
+winres = "0.1"

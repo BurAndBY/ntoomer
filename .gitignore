@@ -1,0 +1,5 @@
+# The fact that RustRover doesn't generate a proper gitignore file is upsetting
+
+/target
+/.idea
+Cargo.lock
