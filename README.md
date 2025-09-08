@@ -1,4 +1,4 @@
-[Logo of NToomer, being a Windows logo inside a monocle](https://raw.githubusercontent.com/burandby/ntoomer/main/logo.png)
+![Logo of NToomer, being a Windows logo inside a monocle](https://raw.githubusercontent.com/burandby/ntoomer/main/logo.png)
 # NToomer
 NToomer is a clone of [@tsoding's boomer]() that supports Windows versions and written on rust
 
